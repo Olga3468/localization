@@ -1,5 +1,5 @@
 # localization
-Localization for React Native Expo app
+Simple localization for React Native Expo app
 
 # project start
 npx create-expo-app@latest localization -t tabs
